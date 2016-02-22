@@ -31,4 +31,3 @@ Compiling instruction
   - cd into the base directory of the project (data_analysis)
   - run python report.py
   - a report will be generated into: data_analysis/data_analysis/analysis/reports/report.pdf
-
